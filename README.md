@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ooktsl
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Machine Learning with Python
+- 🌱 I’m currently learning FastApi, MLflow, AWS, MinIO
 - 💞️ I’m looking to collaborate on advanced statistical analysis
 - 📫 How to reach me in no way:))
 
